@@ -1,0 +1,29 @@
+{
+  "name": "snoopify",
+  "version": "1.0.1",
+  "description": "A node module that converts strings of words into Snoop Dog \"izzle\"-ified words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snoop",
+    "dog",
+    "snoop-dog",
+    "izzle",
+    "shizzle",
+    "snoopify",
+    "rapper",
+    "string",
+    "converter"
+  ],
+  "author": {
+    "name": "David Shibley"
+  },
+  "license": "MIT",
+  "readme": "# Snoopify\nThe module you never needed, but always wanted.\n\n### Description\nSnoopify is a function that takes any input string and returns the same string in a context that the iconic rapper Snoop Dogg might say/write the string.\n\n### Sample Usage\nStringifying the following sentence \"For shore my ninja\" would return \"For shizzle my nizzle\".\nLikewise, the string \"snoop dogg is the shit\" would return \"snizzle dizzle is the shizzle\"\n",
+  "readmeFilename": "README.md",
+  "_id": "snoopify@1.0.1",
+  "_shasum": "db12be55d775658af18f9dd6c4af9b5691ab3e32",
+  "_from": "snoopify@*"
+}
